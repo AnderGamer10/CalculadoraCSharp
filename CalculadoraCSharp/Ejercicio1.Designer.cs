@@ -192,7 +192,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "Ejercicio1";
-            this.Text = "Form1";
+            this.Text = "Calculo de formula matematica";
             this.Load += new System.EventHandler(this.Ejercicio1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

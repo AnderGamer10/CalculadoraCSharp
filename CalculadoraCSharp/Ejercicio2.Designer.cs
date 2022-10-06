@@ -146,7 +146,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnFrase1);
             this.Name = "Ejercicio2";
-            this.Text = "Ejercicio2";
+            this.Text = "Frases";
             this.Load += new System.EventHandler(this.Ejercicio2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
